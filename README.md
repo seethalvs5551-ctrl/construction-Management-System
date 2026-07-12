@@ -36,3 +36,14 @@ A web-based Construction Management System developed using PHP, MySQL, HTML, CSS
 ## Author
 **Seethal VS**
 MCA Student
+
+## Project Screenshots
+
+### Login Page
+![Login](screenshots/loginpage.png)
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
