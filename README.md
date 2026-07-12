@@ -40,10 +40,16 @@ MCA Student
 ## Project Screenshots
 
 ### Login Page
-![Login](screenshots/loginpage.png)
+![Login](screenshots/login.png)
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home Page](screenshots/homepage.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Product Management
+![Product Management](screenshots/product-management.png)
+
+### Worker Management
+![Worker Management](screenshots/worker-management.png)
